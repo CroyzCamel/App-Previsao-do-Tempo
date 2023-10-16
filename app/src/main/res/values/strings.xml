@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Previsao do tempo</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscar_cidade">Buscar Cidade...</string>
+    <string name="description_imagem">Tipo de clima\n</string>
+    <string name="clima_e_humidade">Clima \n Céu limpo \n\n Umidade \n 48</string>
+    <string name="tempo_maximo_tempo_minimo">Temp.Min \n 21 \n\n Temp.Max \n 25</string>
+    <string name="informa_es_adicionais">Informações adicionais</string>
+</resources>
